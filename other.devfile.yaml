@@ -1,0 +1,5 @@
+schemaVersion: 2.1.0
+metadata:
+  generateName: vigilant-umbrella-other-
+attributes:
+  controller.devfile.io/storage-type: ephemeral
